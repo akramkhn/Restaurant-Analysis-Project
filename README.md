@@ -7,20 +7,26 @@ This project focuses on helping a meal delivery company improve demand forecasti
 Dataset Information
 The project utilizes three main datasets:
 
-Historical Demand Data: Contains information on demand for each product-centre combination over time.
+1) Historical Demand Data: Contains information on demand for each product-centre combination over time.
 
-Product Features Data: Includes details about meal products such as category, sub-category, price, and discounts.
+2) Product Features Data: Includes details about meal products such as category, sub-category, price, and discounts.
 
-Fulfilment Centre Information: Provides data on centre areas, city details, and other relevant information.
+3) Fulfilment Centre Information: Provides data on centre areas, city details, and other relevant information.
 
 Key Questions Addressed in the Dashboard
 
 Total Orders: A date-filterable metric displaying the total number of orders fulfilled by the company.
+
 Revenue: The total revenue earned by the company from meal orders.
+
 Discount Analysis: Calculates the total discounted value (base price - check out price) across all orders and the overall discount percentage.
+
 Pareto Principle Analysis: Determines whether the company follows the Pareto Principle, where 80% of revenue comes from 20% of centres.
+
 Top Selling Categories: Identifies the top 5 selling meal categories.
+
 Operational Area Impact: Explores the influence of centre operational areas on the number of orders.
+
 Effectiveness of Promotions: Analyzes whether emails and product features on the homepage effectively promote sales.
 
 Forecasting
