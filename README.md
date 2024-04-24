@@ -2,7 +2,7 @@ Meal Delivery Demand Forecasting with Power BI
 
 Project Overview
 
-This project focuses on helping a meal delivery company improve demand forecasting for its fulfilment centres across multiple cities. By analyzing historical demand data, product features, and centre information, the goal is to provide insights that enable better stock planning, procurement, and staffing decisions.
+  This project focuses on helping a meal delivery company improve demand forecasting for its fulfilment centres across multiple cities. By analyzing historical demand data, product features, and centre information, the goal is to provide insights that enable better stock planning, procurement, and staffing decisions.
 
 Dataset Information
 The project utilizes three main datasets:
@@ -35,4 +35,4 @@ Forecasting
 
 Conclusion
 
-Through this Power BI dashboard, the company gains actionable insights into demand patterns, revenue drivers, and promotional effectiveness across its fulfilment centres. By leveraging data-driven decision-making, the company can optimize stock planning, procurement strategies, and promotional efforts to enhance operational efficiency and customer satisfaction.
+  Through this Power BI dashboard, the company gains actionable insights into demand patterns, revenue drivers, and promotional effectiveness across its fulfilment centres. By leveraging data-driven decision-making, the company can optimize stock planning, procurement strategies, and promotional efforts to enhance operational efficiency and customer satisfaction.
