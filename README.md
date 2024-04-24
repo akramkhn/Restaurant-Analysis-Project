@@ -15,23 +15,23 @@ The project utilizes three main datasets:
 
 Key Questions Addressed in the Dashboard
 
-Total Orders: A date-filterable metric displaying the total number of orders fulfilled by the company.
+1) Total Orders: A date-filterable metric displaying the total number of orders fulfilled by the company.
 
-Revenue: The total revenue earned by the company from meal orders.
+2) Revenue: The total revenue earned by the company from meal orders.
 
-Discount Analysis: Calculates the total discounted value (base price - check out price) across all orders and the overall discount percentage.
+3) Discount Analysis: Calculates the total discounted value (base price - check out price) across all orders and the overall discount percentage.
 
-Pareto Principle Analysis: Determines whether the company follows the Pareto Principle, where 80% of revenue comes from 20% of centres.
+4) Pareto Principle Analysis: Determines whether the company follows the Pareto Principle, where 80% of revenue comes from 20% of centres.
 
-Top Selling Categories: Identifies the top 5 selling meal categories.
+5) Top Selling Categories: Identifies the top 5 selling meal categories.
 
-Operational Area Impact: Explores the influence of centre operational areas on the number of orders.
+6) Operational Area Impact: Explores the influence of centre operational areas on the number of orders.
 
-Effectiveness of Promotions: Analyzes whether emails and product features on the homepage effectively promote sales.
+7) Effectiveness of Promotions: Analyzes whether emails and product features on the homepage effectively promote sales.
 
 Forecasting
 
-Weekly Forecast: Provides a trend-based forecasting method to predict the weekly quantity sold for each centre, city, and meal category for the next 5 weeks.
+8) Weekly Forecast: Provides a trend-based forecasting method to predict the weekly quantity sold for each centre, city, and meal category for the next 5 weeks.
 
 Conclusion
 
